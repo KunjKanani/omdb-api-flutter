@@ -1,16 +1,13 @@
-# tradexa
+# Tradexa
+## Flutter Assignment
 
-A new Flutter project.
+https://user-images.githubusercontent.com/64889177/133765223-3898ae01-e732-430d-ac45-e2c3c88813dd.mp4
 
-## Getting Started
+![4](https://user-images.githubusercontent.com/64889177/133765207-43c94af7-fc61-4619-baf1-b9be5b6f6e72.jpg)
+![3](https://user-images.githubusercontent.com/64889177/133765215-8eed843d-14a2-4dbd-a37a-363202bdebb0.jpg)
+![2](https://user-images.githubusercontent.com/64889177/133765218-b1c8b155-3920-4c14-a6eb-487c8cfea2c2.jpg)
+![1](https://user-images.githubusercontent.com/64889177/133765219-5002d693-2bd1-466d-99ac-0ba59ab4a095.jpg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
